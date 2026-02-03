@@ -17,7 +17,7 @@ const GsapFrom = () => {
   return (
     <div className='bg-gray-800 flex-col justify-center px-10 py-10'>
         <div>
-            <h1 className='text-white text-3xl font-bold'>1. GsapFrom</h1>
+            <h1 className='text-white text-3xl font-bold'>2. GsapFrom</h1>
         </div>
         <div className='mt-10'>
             <div id='green-box' className='w-20 h-20 bg-green-500 rounded-lg' />
