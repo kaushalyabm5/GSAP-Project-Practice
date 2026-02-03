@@ -2,6 +2,7 @@ import React from 'react'
 import GsapTo from './components/GsapTo'
 import GsapFrom from './components/GsapFrom'
 import GsapFromTo from './components/GsapFromTo'
+import GsapTimeLine from './components/GsapTimeLine'
 
 const App = () => {
   return (
@@ -9,6 +10,7 @@ const App = () => {
       <GsapTo />
       <GsapFrom />
       <GsapFromTo />
+      <GsapTimeLine />
     </div>
   )
 }
