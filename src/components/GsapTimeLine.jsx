@@ -15,7 +15,7 @@ const GsapTimeLine = () => {
             rotation: 360,
             borderRadius: '100%',
             duration: 2,
-            ease: 'bacl.inOut',
+            ease: 'back.inOut',
         })
 
         timeline.to('#yellow-box', {
