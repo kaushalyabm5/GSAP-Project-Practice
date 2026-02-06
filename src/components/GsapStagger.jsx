@@ -23,7 +23,7 @@ const GsapStagger = () => {
   return (
     <div className='bg-gray-700'>
         <div>
-            <h1 className='text-white text-3xl font-bold pt-10 pl-10'>3. GsapFromTo</h1>
+            <h1 className='text-white text-3xl font-bold pt-10 pl-10'>5. GsapStagger</h1>
         </div>
         <div className='py-20 px-20'>
             <div className='flex gap-5'>
